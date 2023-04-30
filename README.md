@@ -14,9 +14,7 @@ Email Aelzyat9900@gmail.com or chat 01010885292
 ## 🚀 About Me
 I'm a Frontend Developer...
 
-
-## 🛠 Skills
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Skills 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -33,16 +31,4 @@ I'm a Frontend Developer...
 
 
 ## Other Common Github Profile Sections
-👩‍💻
-
-🧠
-
-🤔
-
-💬
-
-📫
-
-😄
-
-⚡️
+👩‍💻 🧠 🤔 💬 📫 😄 ⚡️
