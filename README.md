@@ -1,7 +1,5 @@
-# Hi,I'm Ahmed Elzayat!👋
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Welcome+To+In+Profile.+:)">
-</div>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=solid&size=25&duration=1000&pause=3000&color=4E6697&center=true&vCenter=true&width=437&lines=Welcome+%3A);I'm+Ahmed+Elzayat+*;Software+Developer+%3C%3F%3E" alt="Typing SVG" /></a>
 
 ## 🚀 About Me
 I'm a Full Stack Developer...
@@ -45,8 +43,7 @@ I'm a Full Stack Developer...
   <img src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc" height="40" width="40" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-</div>
-## Other Common Github Profile Sections
-👩‍💻                       🧠                    🤔               💬           📫          😄       ⚡️
+</div>&nbsp;
+
 
 ![Snake animation](https://github.com/slick-codes/slick-codes/blob/output/github-contribution-grid-snake.svg)
