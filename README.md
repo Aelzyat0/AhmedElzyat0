@@ -16,7 +16,7 @@ Full Stack Developer...
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/ahmedhani_0)
 
 
 ## 🛠 &nbsp;Skills & Tools 
