@@ -8,7 +8,7 @@
     </td>
     <td width="50%">
       <samp>
-        I believe that staying curious is essential for growth. Whether exploring new frameworks, attending tech conferences, participating in tech communities, or contributing to open-source projects, I’m always eager to expand my knowledge 💻.
+        Experienced web developer with a strong background in front-end and back-end development, possessing three years of focused experience. Proficient in web programming, server hosting, and data transfer protocols, with a proven track record of delivering high-quality results. 💡💻🔎.
       </samp>
     </td>
   </tr>
@@ -19,7 +19,7 @@
 ## I Make Awesome Shit Since 2024 🚀
 
 <div align="center">
-  <a href="https://hetari.github.io/portfolio/" target="_blank">
+  <a href="https://" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="portfolio badge" />
   </a>
 </div>
