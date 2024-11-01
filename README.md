@@ -8,7 +8,7 @@
     </td>
     <td width="50%">
       <samp>
-        Experienced web developer with a strong background in front-end and back-end development, possessing three years of focused experience. Proficient in web programming, server hosting, and data transfer protocols, with a proven track record of delivering high-quality results. 💡💻🔎.
+        Experienced web developer with a strong background in front-end and back-end development, possessing three years of focused experience. Proficient in web programming, server hosting, and data transfer protocols, with a proven track record of delivering high-quality results. 💡💻🔎
       </samp>
     </td>
   </tr>
