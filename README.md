@@ -5,18 +5,17 @@
   </a>
 </div>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Aelzyat0&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
-<p align='center'>
-  <a href="https://my-portfolio-self-two-33.vercel.app/ ">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-fathy-997aa534b/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<div align="center">
+<h2>🏆 GitHub Stats</h2>
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iheb-errabie&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iheb-errabie&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
+</div>
+
 
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
@@ -47,6 +46,25 @@
     <img src="Images/TechStack/Bash.svg" alt="Bash" width="5%" style="margin: 10px;">&#160;&#160;&#160;
   </p>
 </div>
+
+<h3 align="center">📫  Connect with me</h3>
+
+<div style="margin-top:10px" align="center">
+  <div>
+       <a href="https://github.com/princeyadav09" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+    <a  href="https://www.linkedin.com/in/prince-kumar-yadav-4a6805204/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+    <a  href="mailto:princekumaryadav09@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+    </a>
+  </div>
+</div>
+
+<hr>
+
 
 <div align="center">
   <h2>📈 GitHub Activity Graph</h2>
