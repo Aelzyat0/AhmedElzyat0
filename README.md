@@ -9,6 +9,15 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Aelzyat0&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
+<p align='center'>
+  <a href="https://my-portfolio-self-two-33.vercel.app/ ">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-fathy-997aa534b/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
   <p>
