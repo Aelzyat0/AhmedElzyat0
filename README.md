@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=45&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=720&height=100&lines=Hi%2C+I'm+Ahmed+Elzyat%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </div>
+<hr>
 
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
@@ -15,8 +16,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iheb-errabie&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
 </div>
+<div align="center">
 
+![](https://github-profile-trophy.vercel.app/?username=AnkitNayak-eth&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+</div>
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
   <p>
